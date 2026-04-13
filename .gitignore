@@ -1,0 +1,23 @@
+# Java
+*.class
+*.log
+
+# Carpetas compiladas
+bin/
+build/
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
